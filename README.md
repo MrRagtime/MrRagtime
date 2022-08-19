@@ -1,16 +1,15 @@
-### Hi there 👋
+# Mr. Ragtime
 
-<!--
-**MrRagtime/MrRagtime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+For code related, I'm a Minecraft Skript Devloper.
 
-Here are some ideas to get you started:
+I'm the younger brother of [@TeamPopplio](https://github.com/TeamPopplio/TeamPopplio).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+[Chaos Mode for Skript](https://github.com/MrRagtime/chaos-mode)
+
+[MisCraft](https://github.com/MrRagtime/MisCraft) - [Website](https://sites.google.com/view/miscraft/miscraft)
+
+### Where can I get in contact you?
+
+DM [Kiwifruit#2003](https://discord.com/users/728082336536854559) and let him know what you need.
