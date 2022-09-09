@@ -10,6 +10,6 @@ I'm the younger brother of [@TeamPopplio](https://github.com/TeamPopplio/TeamPop
 
 [MisCraft](https://github.com/MrRagtime/MisCraft) - [Website](https://sites.google.com/view/miscraft/miscraft)
 
-### Where can I get in contact you?
+### Where can I get in contact with you?
 
 DM [Kiwifruit#2003](https://discord.com/users/728082336536854559) and let him know what you need.
