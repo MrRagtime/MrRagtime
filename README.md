@@ -12,4 +12,4 @@ I'm the younger brother of [@TeamPopplio](https://github.com/TeamPopplio/TeamPop
 
 ### Where can I get in contact with you?
 
-DM [Kiwifruit#2003](https://discord.com/users/728082336536854559) and let him know what you need.
+DM me on Discord: [Mr. Ragtime#3597](https://discord.com/users/676181885801725953)
