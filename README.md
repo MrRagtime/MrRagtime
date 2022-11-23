@@ -8,7 +8,7 @@ I'm the younger brother of [@TeamPopplio](https://github.com/TeamPopplio/TeamPop
 
 [Chaos Mode for Skript](https://github.com/MrRagtime/chaos-mode)
 
-[MisCraft](https://github.com/MrRagtime/MisCraft) - [Website](https://sites.google.com/view/miscraft/miscraft)
+~~[MisCraft](https://github.com/MrRagtime/MisCraft) - [Website](https://sites.google.com/view/miscraft/miscraft)~~
 
 ### Where can I get in contact with you?
 
