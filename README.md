@@ -2,7 +2,7 @@
 
 For code related, I'm a Minecraft Skript Devloper.
 
-I'm the younger brother of [@TeamPopplio](https://github.com/TeamPopplio/TeamPopplio).
+I'm the younger brother of **[@KiwifruitDev](https://github.com/KiwifruitDev/KiwifruitDev)**.
 
 ## Projects
 
